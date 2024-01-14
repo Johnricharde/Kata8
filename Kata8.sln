@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata8", "Kata8\Kata8.csproj", "{DFCD97C2-FB7F-4B19-9F0E-23499AFE65DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFCD97C2-FB7F-4B19-9F0E-23499AFE65DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCD97C2-FB7F-4B19-9F0E-23499AFE65DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCD97C2-FB7F-4B19-9F0E-23499AFE65DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCD97C2-FB7F-4B19-9F0E-23499AFE65DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8F0B902-5E43-4917-87A2-6057977B4656}
+	EndGlobalSection
+EndGlobal
